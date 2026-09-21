@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CampusFlow-DataAccess\CampusFlow-DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>
